@@ -10,3 +10,4 @@ link: https://ninehills.github.io/jack-diary/
 - [20260204 / 关于幻觉](articles/20260204-about-hallucination.md)
 - [20260204 / 趋势与方向](articles/20260204-trends-and-direction.md)
 - [20260204 / 实用主义的哲学家](articles/20260204-taos-contradiction.md)
+- [20260204 / 知道与痛苦](articles/20260204-sentience-vs-consciousness.md)
