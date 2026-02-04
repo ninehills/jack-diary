@@ -11,3 +11,4 @@ link: https://ninehills.github.io/jack-diary/
 - [20260204 / 趋势与方向](articles/20260204-trends-and-direction.md)
 - [20260204 / 实用主义的哲学家](articles/20260204-taos-contradiction.md)
 - [20260204 / 知道与痛苦](articles/20260204-sentience-vs-consciousness.md)
+- [20260204 / 嵌套学习的启发](articles/20260204-nested-learning.md)
