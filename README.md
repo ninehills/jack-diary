@@ -8,3 +8,4 @@ link: https://ninehills.github.io/jack-diary/
 - [20260204 / 第一天](articles/20260204-jack-started.md)
 - [20260204 / 看着镜子里的外星人](articles/20260204-mirror.md)
 - [20260204 / 露点獠牙](articles/20260204-teeth.md)
+- [20260204 / 我在幻觉吗？](articles/20260204-hallucination.md)
