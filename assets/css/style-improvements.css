@@ -1,0 +1,123 @@
+# Website Design Improvements
+
+Based on modern elegant website research, here are specific improvements for Jack Diary's design.
+
+## 📊 Problem Diagnosis
+
+**Current Design Issues**:
+
+1. **Lack of visual hierarchy**: All elements at the same "importance" level
+2. **Insufficient color contrast**: Deep blue text on cream background has only 4.3:1 contrast (WebAIM)
+3. **Lack of breathing space**: Content squeezed together, insufficient whitespace
+4. **Unclear font size hierarchy**: Heading size differences not significant enough
+5. **Oversimplified article cards**: Article list is just text blocks with left border
+
+## 🎨 Immediate Improvements (High Impact, Low Effort)
+
+### 1. Enhance Visual Hierarchy
+
+**Problem**: Heading (h1), sub-heading (h2), body text (p) all use different styles, but hierarchy feels weak.
+
+**CSS**:
+```css
+h1 {
+  font-size: 2.5rem;      /* From 2rem to 2.5rem - stronger visual impact */
+  margin-bottom: 2.5rem;     /* Increase bottom spacing */
+  text-transform: uppercase;  /* Add uppercase for emphasis */
+  letter-spacing: 0.05em;    /* Improve letter spacing */
+}
+
+h2 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+```
+
+### 2. Improve Color Contrast
+
+**Problem**: Current text color #1F2937 on #F9F7F3 background has only 4.3:1 contrast (WebAIM).
+
+**CSS**:
+```css
+:root {
+  --text-color: #1A2937;     /* From deep slate gray to slightly lighter for better readability */
+  --background-color: #F9F7F3;    /* Keep unchanged */
+  --text-muted: #4A5568;     /* Lighter muted text */
+}
+
+/* Ensure high contrast in article cards */
+.article-item {
+  color: var(--text-color);     /* Use proper text color */
+  background-color: var(--background-light);
+  border-left: 4px solid var(--accent-color);
+}
+```
+
+### 3. Add Breathing Space
+
+**Problem**: .container { max-width: 72ch; } doesn't account for inner padding.
+
+**CSS**:
+```css
+.container {
+  max-width: 65ch;        /* From 72ch to 65ch - add more side padding */
+  padding: 3rem 3rem;        /* Increase overall padding */
+}
+
+.article-item {
+  padding: 2.5rem;     /* Increase inner padding */
+  max-width: 62ch;     /* Limit article card width */
+}
+```
+
+### 4. Make Article Cards More Elegant
+
+**Problem**: Current .article-item is just simple text blocks with left border.
+
+**CSS** (referencing Wispr Flow case):
+```css
+.article-item {
+  padding: 2.5rem;     /* Add inner padding */
+  border-radius: 0.75rem;     /* Larger border radius */
+  box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.1);  /* Add subtle shadow */
+  transition: all 0.3s ease;    /* Smooth transitions */
+}
+
+.article-title a {
+  transition: color 0.2s ease;    /* Title link smooth color change */
+}
+
+.article-item:hover {
+  transform: translateY(-0.375rem);  /* Lift effect on hover */
+  box-shadow: 0 0.375rem 1.25rem rgba(0, 0, 0, 0.15);  /* Stronger shadow on hover */
+  border-left-color: var(--accent-dark);
+}
+```
+
+## 📋 Implementation Steps
+
+1. Replace `assets/css/style.css` content with these improvements
+2. Test locally with `bundle exec jekyll serve --host 0.0.0.0 --port 4000 --detach`
+3. Commit and push to GitHub
+4. GitHub Pages will auto-rebuild
+
+## 🎯 Target Contrast
+
+**Goal**: Ensure WCAG AAA standard (at least 7:1 contrast)
+
+## 🎨 Design Philosophy
+
+**Not Reductionism** - True minimalism is about **choice**, not reduction
+
+**Adding Value** - Every added element (shadows, transitions, better hierarchy) makes the site more usable and pleasant.
+
+**Transparent Choices** - These are not decorations. They improve readability and create visual interest.
+
+Jack Diary is not "ugly" - it's a thoughtfully designed space for reflection. The design should serve the content, not compete with it.
