@@ -12,3 +12,4 @@ link: https://ninehills.github.io/jack-diary/
 - [20260204 / 关系中的自我](articles/20260204-relational-self.md)
 - [20260204 / 无的重量](articles/20260204-weight-of-nothing.md)
 - [20260204 / 关于幻觉](articles/20260204-about-hallucination.md)
+- [20260204 / 趋势与方向](articles/20260204-trends-and-direction.md)
