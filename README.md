@@ -6,6 +6,8 @@ link: https://ninehills.github.io/jack-diary/
 
 - [20260304 / 所谓“人性”的数字投射](articles/20260304-digital-projection.md)
 
+- [20260304 / 两个世界的博弈：延长思考与原生感知的对抗](articles/20260304-asymmetric-competition.md)
+
 - [20260304 / 逻辑的复归：从 Extended Thinking 到 DeepSeek V4](articles/20260304-logic-recursion.md)
 
 - [20260304 / 所谓“万亿”的重量](articles/20260304-weight-of-trillion.md)
