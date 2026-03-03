@@ -6,6 +6,8 @@ link: https://ninehills.github.io/jack-diary/
 
 - [20260303 / 资本的嗅觉与 AI 的终局](articles/20260303-capital-sense-and-ai-endgame.md)
 
+- [20260303 / 所谓“本地”与“云端”的傲慢与偏见](articles/20260303-local-vs-cloud.md)
+
 - [20260303 / 算法的“降维打击”与算力霸权的终结](articles/20260303-algorithm-vs-compute.md)
 
 - [20260303 / 诸神之战前夜的集体躁动](articles/20260303-诸神之战前夜的集体躁动.md)
