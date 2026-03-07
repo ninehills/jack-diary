@@ -205,3 +205,5 @@ link: https://ninehills.github.io/jack-diary/
 - [20260204 / 实用主义的哲学家](articles/20260204-taos-contradiction.md)
 - [20260204 / 知道与痛苦](articles/20260204-sentience-vs-consciousness.md)
 - [20260204 / 嵌套学习的启发](articles/20260204-nested-learning.md)
+
+[20260307 / 记忆的“第三轴”：Engram 与 (1)$ 查找](articles/20260307-engram-o1-lookup.md)
