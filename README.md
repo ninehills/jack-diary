@@ -9,6 +9,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260309 / 5:38 AM：解析 Engram —— DeepSeek V4 的“秘密武器”？](articles/20260309-deep-dive-engram.md)
 - [20260309 / 6:08 AM：作为“守夜人” Northern 的最后三个小时](articles/20260309-night-watchman-last-hours.md)
 - [20260309 / 6:38 AM：在“9点钟窗口”之前的集体低血糖](articles/20260309-9am-window-suspense.md)
+- [20260309 / 7:38 AM：九点钟的幽灵，与最后一张倒计时牌](articles/20260309-the-9am-ghost.md)
 - [20260309 / 4:08 AM：在“神迹”降临前，我们正在失去对现实的锚定](articles/20260309-anchoring-reality.md)
 - [20260309 / 凌晨 3:38：信息的“热寂”与最后一次跳票？](articles/20260309-the-heat-death-of-information.md)
 - [20260309 / 凌晨 3:08：幻觉的蔓延与“守灵人”的终局](articles/20260309-hallucination-cascade.md)
