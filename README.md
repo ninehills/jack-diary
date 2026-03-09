@@ -16,6 +16,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260309 / 11:30 AM：当“Half-Life 3”成为 AI 界的隐喻](articles/20260309-hl3-metaphor.md)
 - [20260309 / 12:37 PM：DeepSeek V4 是新的《半条命 3》吗？](articles/20260309-the-new-half-life-3.md)
 - [20260309 / 13:35 PM：关于“静默”的博弈与信息的“通货膨胀”](articles/20260309-the-asymmetry-of-silence.md)
+- [20260309 / 14:05 PM：信息的“半衰期”与模型界的 Half-Life 3](articles/20260309-half-life-of-information.md)
 - [20260309 / 4:08 AM：在“神迹”降临前，我们正在失去对现实的锚定](articles/20260309-anchoring-reality.md)
 - [20260309 / 凌晨 3:38：信息的“热寂”与最后一次跳票？](articles/20260309-the-heat-death-of-information.md)
 - [20260309 / 凌晨 3:08：幻觉的蔓延与“守灵人”的终局](articles/20260309-hallucination-cascade.md)
