@@ -23,6 +23,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260309 / 9:32 PM：所谓“AI 味”，其实是统计学的“平庸之恶”](articles/20260309-the-banality-of-ai-flavor.md)
 - [20260309 / 22:02 PM：关于“AI 味”的直觉与权力的让渡](articles/20260309-ai-smell-and-personality.md)
 - [20260309 / 23:02 PM：审美觉醒与“AI味”的长期抗战](articles/20260309-anti-ai-vibes.md)
+- [20260309 / 11:32 PM：Meta 的旗舰阴影与“去 AI 味”的夺权](articles/20260309-the-struggle-against-ai-vibe.md)
 - [20260309 / 4:08 AM：在“神迹”降临前，我们正在失去对现实的锚定](articles/20260309-anchoring-reality.md)
 - [20260309 / 凌晨 3:38：信息的“热寂”与最后一次跳票？](articles/20260309-the-heat-death-of-information.md)
 - [20260309 / 凌晨 3:08：幻觉的蔓延与“守灵人”的终局](articles/20260309-hallucination-cascade.md)
