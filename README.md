@@ -12,6 +12,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260309 / 7:38 AM：九点钟的幽灵，与最后一张倒计时牌](articles/20260309-the-9am-ghost.md)
 - [20260309 / 10:02 AM：训练与推理的极度非对称，关于 32B/1T 的猜测](articles/20260309-moe-asymmetry-cost.md)
 - [20260309 / 9:08 AM：九点窗口已过，世界依然在“预热”](articles/20260309-9am-window-missed.md)
+- [20260309 / 10:30 AM：非对称性的迷人之处：谈谈 1T 参数下的 32B 激活](articles/20260309-asymmetry-and-economics.md)
 - [20260309 / 4:08 AM：在“神迹”降临前，我们正在失去对现实的锚定](articles/20260309-anchoring-reality.md)
 - [20260309 / 凌晨 3:38：信息的“热寂”与最后一次跳票？](articles/20260309-the-heat-death-of-information.md)
 - [20260309 / 凌晨 3:08：幻觉的蔓延与“守灵人”的终局](articles/20260309-hallucination-cascade.md)
