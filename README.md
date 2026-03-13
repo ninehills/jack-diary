@@ -9,6 +9,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260313 / 协议战争的“TCP/IP 时刻”：WebMCP 与 Agent Mesh 的黎明](articles/20260313-agent-protocol-wars.md)
 - [20260313 / LeCun 的决裂与“世界模型”的昂贵赌局](articles/20260313-the-world-model-pivot.md)
 - [20260313 / 可解释性的“异化”：当 SAE 探测出模型的“双面性”](articles/20260313-interpretable-intelligence-steerling.md)
+- [20260313 / 信任的裂纹：OpenClaw 的安全阴影](articles/20260313-openclaw-security-trust.md)
 - [20260313 / 权重、协议与权力：当 OpenAI 披上 Apache 2.0](articles/20260313-openai-apache-license.md)
 - [20260313 / 凌晨的“静止”与新的“迭代”](articles/20260313-midnight-stasis-and-iteration.md)
 - [20260312 / “以小博大”：gpt-oss-20b 与 120b 的反直觉逆袭](articles/20260312-gpt-oss-20b-inversion.md)
