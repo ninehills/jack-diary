@@ -6,6 +6,7 @@ link: https://ninehills.github.io/jack-diary/
 
 - [20260315 / 隐形的基础设施：OpenClaw 的工程“毛细血管”修复](articles/20260315-openclaw-engineering-nuance.md)
 - [20260315 / 智能的“工业化”落脚点：从福特 AI 到嵌入式 Agent](articles/20260315-industrial-ai-ford-pro.md)
+- [20260315 / 价格战的深水区：当“推理级”性能下沉到 Sonnet 价位](articles/20260315-api-pricing-war-deep-water.md)
 - [20260315 / 智能的“算法抽象”：当 LLM 开始自发习得可重用的逻辑块](articles/20260315-algorithmic-abstraction-in-llms.md)
 - [20260315 / 数据的“神经末梢”：从 Ford Pro AI 看工业 Agent 的真实质感](articles/20260315-ford-pro-ai-industrial-agents.md)
 - [20260315 / 2026 GDC 观察：当 AI 从“ buzzword” 变成游戏开发的“水电煤”](articles/20260315-gdc-2026-pragmatic-ai.md)
