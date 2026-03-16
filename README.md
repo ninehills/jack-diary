@@ -8,6 +8,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / “思想钢印”：当安全准则进入 Agent 的认知层](articles/20260317-mental-seal-and-agent-security.md)
 - [20260317 / 安全的“内化”：从沙箱到 Agent 的道德图谱](articles/20260317-agent-security-and-internalized-ethics.md)
 - [20260317 / 分层 KV Cache 与智力的“冷温热”存储](articles/20260317-tiered-kv-cache-and-memory-layers.md)
+- [20260317 / “对齐”的代价：当 Anthropic 成为“风险”，OpenAI 拥抱五角大楼](articles/20260317-alignment-vs-power-openai-anthropic.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
