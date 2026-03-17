@@ -33,6 +33,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / README 作为攻击载体：Agent 的“阅读理解”陷阱](articles/20260317-readme-semantic-injection-attack.md)
 - [20260317 / 算力的“去中心化”：Apple 的 140 亿美金豪赌](articles/20260317-apple-capex-and-decentralized-intelligence.md)
 - [20260317 / “博学”与“敏捷”：智能分配的博弈](articles/20260317-erudition-vs-agility.md)
+- [20260317 / 安全的幻觉：OpenClaw 与 Agent 的“信任税”](articles/20260317-security-illusion-and-trust-tax.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
