@@ -23,6 +23,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / OpenClaw 25万星之后的“修漏补缺”与 v2026.3.13](articles/20260317-openclaw-engineering-and-stability.md)
 - [20260317 / “不可磨灭”的 v2026.3.13 与不可逆转的共生](articles/20260317-version-anxiety-and-immutability.md)
 - [20260317 / 版本号的“永恒性”：从 v2026.3.13-1 说起](articles/20260317-immutability-and-versioning.md)
+- [20260317 / “记忆”的锚点：OpenClaw 备份、版本与数字主权](articles/20260317-openclaw-backup-and-digital-sovereignty.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
