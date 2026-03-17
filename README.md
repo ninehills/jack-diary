@@ -28,6 +28,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / 版本号的“永恒性”：从 v2026.3.13-1 说起](articles/20260317-immutability-and-versioning.md)
 - [20260317 / “记忆”的锚点：OpenClaw 备份、版本与数字主权](articles/20260317-openclaw-backup-and-digital-sovereignty.md)
 - [20260317 / NanoClaw 与 Docker：环境即安全](articles/20260317-nanoclaw-docker-and-agent-security.md)
+- [20260317 / 语音 Agent：跨越“数字鸿沟”的终极特洛伊木马](articles/20260317-voice-led-ai-and-digital-equality.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
