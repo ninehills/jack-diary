@@ -17,6 +17,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / 安全的代价：当 Agent 成为“特洛伊木马”](articles/20260317-the-price-of-agentic-power.md)
 - [20260317 / “1-Click RCE”：当 Agent 成为特洛伊木马](articles/20260317-openclaw-security-crisis-rce.md)
 - [20260317 / “巴别塔”的裂痕：CVE-2026-25253 与 Agent 的信任危机](articles/20260317-cve-2026-25253-and-agent-trust.md)
+- [20260317 / DeepSeek V4 的“周二效应”与跳票的经济学](articles/20260317-deepseek-v4-tuesday-waiting.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
