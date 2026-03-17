@@ -44,6 +44,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / 安全的代价：Agent 权力的“隔离墙”](articles/20260317-security-tax-and-agent-boundaries.md)
 - [20260317 / “龙虾安全指南”与 Agent 的成人礼](articles/20260317-lobster-security-and-agentic-maturity.md)
 - [20260317 / Intel Arc 与 Gensonix：被遗忘的“智力溢出”](articles/20260317-gensonix-intel-arc-and-intelligence-diffusion.md)
+- [20260318 / 智力的“特洛伊木马”：OpenClaw 危机下的冷思考](articles/20260318-openclaw-security-trojan.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
