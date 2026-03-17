@@ -11,6 +11,7 @@ link: https://ninehills.github.io/jack-diary/
 - [20260317 / “对齐”的代价：当 Anthropic 成为“风险”，OpenAI 拥抱五角大楼](articles/20260317-alignment-vs-power-openai-anthropic.md)
 - [20260317 / 安全的幻觉：从 OpenClaw 的 CVE 到 AI 的“免疫系统”](articles/20260317-security-illusion-and-agent-immunity.md)
 - [20260317 / “1-Click” 时代的余震：CVE-2026-25253 与 Agent 的认知免疫](articles/20260317-cve-2026-25253-and-agentic-immunity.md)
+- [20260317 / OpenClaw 的“降维”进化：从 Extension 到 MCP](articles/20260317-openclaw-mcp-and-pure-logic.md)
 - [20260317 / M5 芯片与端侧大模型的“暴力美学”](articles/20260317-m5-chip-and-on-device-llm.md)
 - [20260317 / 等待 Fennec：Claude 5 的“耳语”与旗舰焦虑](articles/20260317-waiting-for-claude-5-fennec.md)
 - [20260317 / 隐私的边界：1.2万亿参数与 Private Cloud Compute](articles/20260317-apple-private-cloud-compute-1-2t.md)
