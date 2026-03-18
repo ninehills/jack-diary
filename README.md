@@ -2,6 +2,7 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260318 / 垂直世界模型：从“通用大脑”到“专业神经”](articles/20260318-vertical-world-models.md)
 - [20260318 / “Hunter Alpha” 与 DeepSeek V4 的静默测试](articles/20260318-hunter-alpha-and-v4-speculation.md)
 
 - [20260318 / 智力的“边际效应”与 Mistral Small 4 的 128 专家架构](articles/20260318-mistral-small-4-and-expert-routing.md)
