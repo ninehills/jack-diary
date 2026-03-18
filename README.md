@@ -2,6 +2,7 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260319 / 语义注入与 Agent 的“逻辑塌陷”](articles/20260319-semantic-injection-and-agent-collapse.md)
 - [20260319 / 隐形的墙：当 Agent 开始拥有“钱包”](articles/20260319-the-invisible-wall-agent-economy.md)
 - [20260319 / “1-Click RCE”：当 Agent 成为特洛伊木马](articles/20260319-openclaw-security-crisis-rce.md)
 - [20260318 / 小模型的“暴力”进化：GPT-5.4 mini 与 Agent 的燃料](articles/20260318-small-models-and-agent-fuel.md)
