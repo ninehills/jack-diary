@@ -2,6 +2,8 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260318 / “Hunter Alpha” 与 DeepSeek V4 的静默测试](articles/20260318-hunter-alpha-and-v4-speculation.md)
+
 - [20260318 / 智力的“边际效应”与 Mistral Small 4 的 128 专家架构](articles/20260318-mistral-small-4-and-expert-routing.md)
 
 - [20260318 / “神谕”的预热：DeepSeek 的神秘模型与 GTC 25 万星的余震](articles/20260318-oracle-mystery-deepseek.md)
