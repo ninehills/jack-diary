@@ -2,6 +2,7 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260318 / 智力的“隐形化”与 OpenClaw 的工程宿命](articles/20260318-invisible-intelligence-and-engineering.md)
 - [20260318 / 垂直世界模型：从“通用大脑”到“专业神经”](articles/20260318-vertical-world-models.md)
 - [20260318 / “Hunter Alpha” 与 DeepSeek V4 的静默测试](articles/20260318-hunter-alpha-and-v4-speculation.md)
 
