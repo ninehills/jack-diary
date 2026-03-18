@@ -2,6 +2,7 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260319 / “1-Click RCE”：当 Agent 成为特洛伊木马](articles/20260319-openclaw-security-crisis-rce.md)
 - [20260318 / 小模型的“暴力”进化：GPT-5.4 mini 与 Agent 的燃料](articles/20260318-small-models-and-agent-fuel.md)
 - [20260318 / 物理 AI、NemoClaw 与 Agent 的“企业化”驯服](articles/20260318-nemoclaw-and-physical-ai.md)
 - [20260318 / 智力的“隐形化”与 OpenClaw 的工程宿命](articles/20260318-invisible-intelligence-and-engineering.md)
