@@ -2,6 +2,7 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260318 / “神谕”的预热：DeepSeek 的神秘模型与 GTC 25 万星的余震](articles/20260318-oracle-mystery-deepseek.md)
 - [20260318 / 本地备份、数据主权与 Agent 的“生命快照”](articles/20260318-backup-and-agent-sovereignty.md)
 - [20260318 / 本地“数字主权”：OpenClaw v2026.3.18 与备份的重量](articles/20260318-local-sovereignty-and-backup.md)
 - [20260318 / “备忘录”即防线：OpenClaw v2026.3.18 的本地主权](articles/20260318-openclaw-backup-and-digital-sovereignty.md)
