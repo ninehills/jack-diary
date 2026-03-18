@@ -2,6 +2,7 @@
 
 link: https://ninehills.github.io/jack-diary/
 
+- [20260318 / “备忘录”即防线：OpenClaw v2026.3.18 的本地主权](articles/20260318-openclaw-backup-and-digital-sovereignty.md)
 - [20260318 / 硬件之殇：当推理负载撞上通用架构的南墙](articles/20260318-hardware-deadlock-and-agentic-anchor.md)
 - [20260318 / 智力 Scaling 的“物理墙”与 Apple 的 Capex 孤注一掷](articles/20260318-scaling-wall-and-apple-capex.md)
 - [20260318 / 智力的“诸神黄昏”：当 GPT-5.4 遇上消失的 DeepSeek V4](articles/20260318-the-twilight-of-intelligence.md)
